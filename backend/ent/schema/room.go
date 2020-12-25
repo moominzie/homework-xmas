@@ -16,3 +16,5 @@ func (Room) Fields() []ent.Field {
 func (Room) Edges() []ent.Edge {
 	return nil
 }
+
+//homework-xmas
